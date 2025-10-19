@@ -1,6 +1,5 @@
 # Final Project - Simple Interest Calculator
 
-This project contains a shell script to calculate simple interest.
+This is a sample.
 
-## How to Use
-Run the script using:
+
